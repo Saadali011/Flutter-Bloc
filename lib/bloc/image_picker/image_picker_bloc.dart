@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
-import 'package:practice_bloc/bloc/image_picker/image_picker_events.dart';
-import 'package:practice_bloc/bloc/image_picker/image_picker_states.dart';
+import 'package:practice_bloc/bloc/image_picker/image_picker_event.dart';
+import 'package:practice_bloc/bloc/image_picker/image_picker_state.dart';
 import 'package:practice_bloc/utils/image_picker_utils.dart';
 import 'package:image_picker/image_picker.dart';
 

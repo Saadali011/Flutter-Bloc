@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:practice_bloc/bloc/switch_example/switch_bloc.dart';
 import 'package:practice_bloc/bloc/switch_example/switch_event.dart';
-import 'package:practice_bloc/bloc/switch_example/switch_states.dart';
+import 'package:practice_bloc/bloc/switch_example/switch_state.dart';
 
 class SwitchExample extends StatefulWidget {
   const SwitchExample({super.key});
