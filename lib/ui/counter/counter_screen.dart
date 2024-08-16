@@ -28,7 +28,7 @@ class _CounterScreenState extends State<CounterScreen> {
               return Center(
                 child: Text(
                   state.counter.toString(),
-                  style: TextStyle(fontSize:60),
+                  style: const  TextStyle(fontSize:60),
                 ),
               );
             },
